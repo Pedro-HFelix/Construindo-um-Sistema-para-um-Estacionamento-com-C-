@@ -1,0 +1,15 @@
+C:\dotnet\Construindo um Sistema para um Estacionamento com C#\Construindo um Sistema para um Estacionamento com C#\bin\Debug\net7.0\Construindo um Sistema para um Estacionamento com C#.exe
+C:\dotnet\Construindo um Sistema para um Estacionamento com C#\Construindo um Sistema para um Estacionamento com C#\bin\Debug\net7.0\Construindo um Sistema para um Estacionamento com C#.deps.json
+C:\dotnet\Construindo um Sistema para um Estacionamento com C#\Construindo um Sistema para um Estacionamento com C#\bin\Debug\net7.0\Construindo um Sistema para um Estacionamento com C#.runtimeconfig.json
+C:\dotnet\Construindo um Sistema para um Estacionamento com C#\Construindo um Sistema para um Estacionamento com C#\bin\Debug\net7.0\Construindo um Sistema para um Estacionamento com C#.dll
+C:\dotnet\Construindo um Sistema para um Estacionamento com C#\Construindo um Sistema para um Estacionamento com C#\bin\Debug\net7.0\Construindo um Sistema para um Estacionamento com C#.pdb
+C:\dotnet\Construindo um Sistema para um Estacionamento com C#\Construindo um Sistema para um Estacionamento com C#\obj\Debug\net7.0\Construindo um Sistema para um Estacionamento com C#.csproj.AssemblyReference.cache
+C:\dotnet\Construindo um Sistema para um Estacionamento com C#\Construindo um Sistema para um Estacionamento com C#\obj\Debug\net7.0\Construindo um Sistema para um Estacionamento com C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Construindo um Sistema para um Estacionamento com C#\Construindo um Sistema para um Estacionamento com C#\obj\Debug\net7.0\Construindo um Sistema para um Estacionamento com C#.AssemblyInfoInputs.cache
+C:\dotnet\Construindo um Sistema para um Estacionamento com C#\Construindo um Sistema para um Estacionamento com C#\obj\Debug\net7.0\Construindo um Sistema para um Estacionamento com C#.AssemblyInfo.cs
+C:\dotnet\Construindo um Sistema para um Estacionamento com C#\Construindo um Sistema para um Estacionamento com C#\obj\Debug\net7.0\Construindo um Sistema para um Estacionamento com C#.csproj.CoreCompileInputs.cache
+C:\dotnet\Construindo um Sistema para um Estacionamento com C#\Construindo um Sistema para um Estacionamento com C#\obj\Debug\net7.0\Construindo um Sistema para um Estacionamento com C#.dll
+C:\dotnet\Construindo um Sistema para um Estacionamento com C#\Construindo um Sistema para um Estacionamento com C#\obj\Debug\net7.0\refint\Construindo um Sistema para um Estacionamento com C#.dll
+C:\dotnet\Construindo um Sistema para um Estacionamento com C#\Construindo um Sistema para um Estacionamento com C#\obj\Debug\net7.0\Construindo um Sistema para um Estacionamento com C#.pdb
+C:\dotnet\Construindo um Sistema para um Estacionamento com C#\Construindo um Sistema para um Estacionamento com C#\obj\Debug\net7.0\Construindo um Sistema para um Estacionamento com C#.genruntimeconfig.cache
+C:\dotnet\Construindo um Sistema para um Estacionamento com C#\Construindo um Sistema para um Estacionamento com C#\obj\Debug\net7.0\ref\Construindo um Sistema para um Estacionamento com C#.dll
